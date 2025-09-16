@@ -18,6 +18,7 @@ Il a pour but de montrer comment :
 ### 1. Compiler le programme
 ```bash
 cargo build --release
+```
 
 ### 2. Lancer le programme
 
@@ -26,11 +27,11 @@ Le programme attend un argument numérique n, représentant la position dans la 
 Exemple :
 ```bash
 cargo run -- 10
-
+```
 Résultat attendu :
 ```bash
 Le 10ème nombre de la suite de Fibonacci est le 55
-
+```
 ## 🧮 Exemple de la suite de Fibonacci
 
 n : 0  1  2  3  4  5  6  7  8  9  10 ...
