@@ -1,6 +1,6 @@
 # Fibonacci en Rust
 
-![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)
+![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Rust](https://img.shields.io/badge/Language-Rust-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 
